@@ -1,0 +1,14 @@
+{
+  "name": "example-response-helper",
+  "version": "1.0.0",
+  "description": "This shows off the response helper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Bland",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
